@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895251123934",
+    "firebase_url": "https://vachanonline-2a3ea.firebaseio.com",
+    "project_id": "vachanonline-2a3ea",
+    "storage_bucket": "vachanonline-2a3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895251123934:android:40ec88e9a4be04cf7fbc4f",
+        "android_client_info": {
+          "package_name": "com.vachanonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895251123934-jrfvlijolumlo7vlgq2vr2cpfg9b025p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjhvFesWWzF1Nb8eu-_bUQGg3hx03l4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895251123934-jrfvlijolumlo7vlgq2vr2cpfg9b025p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

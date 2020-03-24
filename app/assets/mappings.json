@@ -1,0 +1,400 @@
+{
+  "id_name_map": {
+    "GEN": {
+    "book_name": {"english":"Genesis ","kannada":"ಆದಿಕಾಂಡ","hindi":"उत्पत्ति","tamil":"ஆதியாகமம்","telugu":"ఆదికాండం","marathi":"उत्पत्ति","punjabi":"ਉਤਪਤ","assamese":"সৃষ্টিৰ পাতনি","bengali":"আদিপুস্তক","urdu":"पैदाइश","odiya":"ଆଦି ପୁସ୍ତକ","gujarati":"ઉત્પત્તિ","malayalam":"ഉല്പത്തിപുസ്തകം"},
+      "section": "OT",
+      "total_chapters":	[31,25,24,26,32,22,24,22,29,32,32,20,18,24,21,16,27,33,38,18,34,24,20,67,34,35,46,22,35,43,54,33,20,31,29,43,36,30,23,23,57,38,34,34,28,34,31,22,33,26],
+      "number": 1
+    },
+    "EXO": {
+    "book_name": {"english":"Exodus","kannada":"ವಿಮೋಚನಕಾಂಡ","hindi":"निर्गमन","tamil":"யாத்திராகமம்","telugu":"నిర్గమకాండం","marathi":"निर्गम","punjabi":"ਕੂਚ","assamese":"যাত্ৰাপুস্তক","bengali":"যাত্রাপুস্তক","urdu":"ख़ुरुज","odiya":"ଯାତ୍ରା ପୁସ୍ତକ","gujarati":"નિર્ગમન","malayalam":"പുറപ്പാടുപുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[22,25,22,31,23,30,29,28,35,29,10,51,22,31,27,36,16,27,25,26,37,30,33,18,40,37,21,43,46,38,18,35,23,35,35,38,29,31,43,38],
+      "number": 2
+    },
+    "LEV": {
+    "book_name": {"english":"Leviticus","kannada":"ಯಾಜಕಕಾಂಡ","hindi":"लैव्यव्यवस्था","tamil":"லேவியராகமம்","telugu":"లేవీకాండం","marathi":"लेवीय","punjabi":"ਲੇਵੀਆਂ ਦੀ ਪੋਥੀ","assamese":"লেবীয়া পুস্তক","bengali":"লেবীয় বই","urdu":"अह्बार","odiya":"ଲେବୀୟ ପୁସ୍ତକ","gujarati":" લેવી","malayalam":"ലേവ്യപുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[17,16,17,35,26,23,38,36,24,20,47,8,59,57,33,34,16,30,37,27,24,33,44,23,55,46,34],
+      "number": 3
+    },
+    "NUM": {
+    "book_name": {"english":"Numbers","kannada":"ಅರಣ್ಯಕಾಂಡ","hindi":"गिनती","tamil":" எண்ணாகமம்","telugu":"సంఖ్యాకాండం","marathi":"गणना","punjabi":"ਗਿਣਤੀ","assamese":"গণনাপুস্তক","bengali":"গণনার বই","urdu":"गिनती","odiya":"ଗଣନା ପୁସ୍ତକ","gujarati":"ગણના","malayalam":"സംഖ്യാപുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[54,34,51,49,31,27,89,26,23,36,35,16,33,45,41,35,28,32,22,29,35,41,30,25,19,65,23,31,39,17,54,42,56,29,34,13],
+      "number": 4
+    },
+    "DEU": {
+    "book_name": {"english":"Deuteronomy","kannada":"ಧರ್ಮೋಪದೇಶಕಾಂಡ","hindi":"व्यवस्थाविवरण","tamil":"உபாகமம்","telugu":"ద్వితీయోపదేశ కాండము","marathi":"अनुवाद","punjabi":"ਬਿਵਸਥਾ ਸਾਰ","assamese":"দ্বিতীয় বিৱৰণ","bengali":"দ্বিতীয় বিবরণ","urdu":"इस्तिसना","odiya":"ଦ୍ୱିତୀୟ ବିବରଣ ପୁସ୍ତକ","gujarati":" પુનર્નિયમ","malayalam":" ആവർത്തനപുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[46,37,29,49,33,25,26,20,29,22,32,31,19,29,23,22,20,22,21,20,23,29,26,22,19,19,26,69,28,20,30,52,29,12],
+      "number": 5
+    },
+    "JOS": {
+    "book_name": {"english":"Joshua","kannada":"ಯೆಹೋಶುವನು","hindi":" यहोशू","tamil":"யோசுவா","telugu":"యెహోషువా","marathi":"यहोशवाचे पुस्तक","punjabi":"ਯਹੋਸ਼ੁਆ","assamese":"যিহোচূৱাৰ পুস্তক","bengali":" যিহোশূয়ের বই","urdu":" यशोअ","odiya":"ଯିହୋଶୂୟଙ୍କର ପୁସ୍ତକ","gujarati":" યહોશુઆ","malayalam":" യോശുവ"},
+      "section": "OT",
+      "total_chapters":[18,24,17,24,15,27,26,35,27,43,23,24,33,15,63,10,18,28,51,9,45,34,16,33],
+      "number": 6
+    },
+    "JDG": {
+    "book_name": {"english":"Judges","kannada":"ನ್ಯಾಯಸ್ಥಾಪಕರು","hindi":"न्यायियों","tamil":"நியாயாதிபதிகள்","telugu":"న్యాయాధిపతులు","marathi":"शास्ते","punjabi":"ਨਿਆਂਈਆਂ ਦੀ ਪੋਥੀ","assamese":"বিচাৰকর্তাসকলৰ পুস্তক","bengali":"বিচারকর্ত্তৃগণের বিবরণ","urdu":"क़ुजात","odiya":"ବିଚାରକର୍ତ୍ତାମାନଙ୍କ ବିବରଣ","gujarati":"ન્યાયાધીશો","malayalam":"ന്യായാധിപന്മാർ"},
+      "section": "OT",
+      "total_chapters":[36,23,31,24,31,40,25,35,57,18,40,15,25,20,20,31,13,31,30,48,25],
+      "number": 7
+    },
+    "RUT": {
+    "book_name": {"english":"Ruth","kannada":"ರೂತಳು","hindi":"रूत","tamil":"ரூத்","telugu":"రూతు","marathi":"रूथ","punjabi":"ਰੂਥ","assamese":"ৰূথ শাহুৱেকৰ লগত বৈৎলেহেমলৈ যোৱা","bengali":"রূত","urdu":"रुत","odiya":"ରୂତର ବିବରଣ ପୁସ୍ତକ","gujarati":"રૂથ","malayalam":"രൂത്ത്"},
+      "section": "OT",
+      "total_chapters":[22,23,18,22],
+      "number": 8
+    },
+    "1SA": {
+    "book_name": {"english":"1 Samuel","kannada":"1 ಸಮುವೇಲನು","hindi":"1 शमूएल","tamil":" 1சாமுவேல்","telugu":"1 సమూయేలు","marathi":"1 शमुवेल","punjabi":"1 ਸਮੂਏਲ","assamese":"চমুৱেলৰ প্ৰথম পুস্তক","bengali":"প্রথম শমূয়েল","urdu":"1 समुएल","odiya":"ଶାମୁୟେଲଙ୍କ ପ୍ରଥମ ପୁସ୍ତକ","gujarati":"1 શમુએલ","malayalam":" ശമൂവേൽ: ഒന്നാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[28,36,21,22,12,21,17,22,27,27,15,25,23,52,35,23,58,30,24,42,16,23,28,23,43,25,12,25,11,31,13],
+      "number": 9
+    },
+    "2SA": {
+    "book_name": {"english":"2 Samuel","kannada":"2 ಸಮುವೇಲನು","hindi":"2 शमूएल","tamil":"2சாமுவேல்","telugu":"2 సమూయేలు","marathi":"2 शमुवेल","punjabi":"2 ਸਮੂਏਲ","assamese":"চমূৱেলৰ দ্বিতীয় পুস্তক","bengali":"2 শমূয়েল","urdu":"2 समुएल","odiya":"ଶାମୁୟେଲଙ୍କ ଦ୍ୱିତୀୟ ପୁସ୍ତକ","gujarati":"2 શમુએલ","malayalam":"ശമൂവേൽ: രണ്ടാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[27,32,39,12,25,23,29,18,13,19,27,31,39,33,37,23,29,32,44,26,22,51,39,25],
+      "number": 10
+    },
+    "1KI": {
+    "book_name": {"english":"1 Kings","kannada":"1 ಅರಸುಗಳು","hindi":"1 राजाओं","tamil":"1இராஜாக்கள்","telugu":"1 రాజులు","marathi":"1 राजे","punjabi":"1 ਰਾਜਿਆਂ","assamese":"ৰাজাৱলিৰ প্ৰথম পুস্তক","bengali":"প্রথম রাজাবলি","urdu":"1 सलातीन","odiya":"ରାଜାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ","gujarati":"1 રાજાઓ","malayalam":"രാജാക്കന്മാർ: ഒന്നാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[53,46,28,20,32,38,51,66,28,29,43,33,34,31,34,34,24,46,21,43,29,54],
+      "number": 11
+    },
+    "2KI": {
+    "book_name": {"english":"2 Kings","kannada":"2 ಅರಸುಗಳು","hindi":"2 राजाओं","tamil":"  2 இராஜாக்கள்","telugu":"2 రాజులు","marathi":" 2 राजे","punjabi":"2 ਰਾਜਿਆਂ","assamese":"ৰাজাৱলিৰ দ্বিতীয় পুস্তক","bengali":"দ্বিতীয় রাজাবলি","urdu":"2 सलातीन","odiya":"  ରାଜାବଳୀର ଦ୍ୱିତୀୟ ପୁସ୍ତକ","gujarati":"2 રાજાઓ","malayalam":"രാജാക്കന്മാർ: രണ്ടാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[18,25,27,44,27,33,20,29,37,36,20,22,25,29,38,20,41,37,37,21,26,20,37,20,30],
+      "number": 12
+    },
+    "1CH": {
+    "book_name": {"english":"1 Chronicles","kannada":"1 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ","hindi":"1 इतिहास","tamil":"1 நாளாகமம்","telugu":"1 దినవృత్తాంతాలు","marathi":"1 इतिहास","punjabi":"1 ਇਤਿਹਾਸ","assamese":"বংশাৱলিৰ প্ৰথম পুস্তক","bengali":" বংশাবলির প্রথম খণ্ড","urdu":"1 तवारीख","odiya":"ବଂଶାବଳୀର ପ୍ରଥମ ପୁସ୍ତକ","gujarati":"1 કાળવૃતાંત","malayalam":" ദിനവൃത്താന്തം: ഒന്നാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[54,55,24,43,41,66,40,40,44,14,47,41,14,17,29,43,27,17,19,8,30,19,32,31,31,32,34,21,30],
+      "number": 13
+    },
+    "2CH": {
+    "book_name": {"english":"2 Chronicles","kannada":"2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ","hindi":"2 इतिहास","tamil":"2 நாளாகமம்","telugu":"2 దినవృత్తాంతాలు","marathi":"2 इतिहास","punjabi":"2 ਇਤਿਹਾਸ","assamese":"বংশাৱলিৰ দ্বিতীয় পুস্তক","bengali":"বংশাবলির দ্বিতীয় খণ্ড","urdu":"2 तवारीख","odiya":"ବଂଶାବଳୀର ଦ୍ବିତୀୟ ପୁସ୍ତକ","gujarati":"2કાળવૃતાંત","malayalam":"ദിനവൃത്താന്തം: രണ്ടാം പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[18,17,17,22,14,42,22,18,31,19,23,16,23,14,19,14,19,34,11,37,20,12,21,27,28,23,9,27,36,27,21,33,25,33,26,23],
+      "number": 14
+    },
+    "EZR": {
+    "book_name": {"english":"Ezra","kannada":"  ಎಜ್ರನು","hindi":" एज्रा","tamil":" எஸ்றா","telugu":"ఎజ్రా","marathi":"एज्रा","punjabi":"ਅਜ਼ਰਾ","assamese":"ইজ্ৰাৰ পুস্তক","bengali":"  ইষ্রা","urdu":" एज्रा","odiya":"ଏଜ୍ରା ନାମକ ପୁସ୍ତକ","gujarati":"એઝરા","malayalam":"എസ്രാ"},
+      "section": "OT",
+      "total_chapters":[11,70,13,24,17,22,28,36,15,44],
+      "number": 15
+    },
+    "NEH": {
+    "book_name": {"english":"Nehemiah","kannada":" ನೆಹೆಮೀಯನು","hindi":" नहेम्याह","tamil":"நெகேமியா","telugu":"నెహెమ్యా","marathi":"नहेम्या","punjabi":"ਨਹਮਯਾਹ","assamese":"নহিমিয়াৰ","bengali":"নহিমিয়ের বই","urdu":"नहेम्याह","odiya":"ନିହିମୀୟାଙ୍କର ପୁସ୍ତକ","gujarati":" નહેમ્યા","malayalam":"നെഹെമ്യാവ്"},
+      "section": "OT",
+      "total_chapters":[11,20,38,17,19,19,72,18,37,40,36,47,31],
+      "number": 16
+    },
+    "EST": {
+    "book_name": {"english":"Esther","kannada":"ಎಸ್ತೇರಳು","hindi":"एस्तेर","tamil":"எஸ்தர்","telugu":"ఎస్తేరు","marathi":"एस्तेर","punjabi":"ਅਸਤਰ","assamese":"ইষ্টেৰৰ বিবৰণ","bengali":"ইষ্টের বিবরণ","urdu":"आस्तेर","odiya":"ଏଷ୍ଟର ବିବରଣ","gujarati":" એસ્તેર","malayalam":"എസ്ഥേർ"},
+      "section": "OT",
+      "total_chapters":[22,23,15,17,14,14,10,17,32,3,17,8,30,16,24,10],
+      "number": 17
+    },
+    "JOB": {
+    "book_name": {"english":"Job","kannada":" ಯೋಬನು","hindi":"अय्यूब","tamil":"யோபு","telugu":" యోబు","marathi":" ईयोब","punjabi":"ਅੱਯੂਬ","assamese":"ইয়োবৰ পত্ৰ","bengali":"ইয়োবের বিবরণ","urdu":"अय्यूब","odiya":"ଆୟୁବ ପୁସ୍ତକ","gujarati":"અયૂબ","malayalam":"ഇയ്യോബ്"},
+      "section": "OT",
+      "total_chapters":[22,13,26,21,27,30,21,22,35,22,20,25,28,22,35,22,16,21,29,29,34,30,17,25,6,14,21,28,25,31,40,22,33,37,16,33,24,41,30,32,26,17],
+      "number": 18
+    },
+    "PSA": {
+    "book_name": {"english":"Psalms","kannada":"ಕೀರ್ತನೆಗಳು","hindi":" भजन संहिता","tamil":"சங்கீதம்","telugu":"కీర్తనలు","marathi":"  स्तोत्रसंहिता","punjabi":" ਜ਼ਬੂਰ","assamese":"গীতমালা","bengali":"গীতসংহিতা","urdu":"  ज़बूर","odiya":"ଗୀତସଂହିତା","gujarati":"ગીતશાસ્ત્ર","malayalam":"  സങ്കീർത്തനങ്ങൾ"},
+      "section": "OT",
+      "total_chapters":[6,11,9,9,13,11,18,10,21,18,7,9,6,7,5,11,15,51,15,10,14,32,6,10,22,11,14,9,11,13,25,11,22,23,28,13,40,23,14,18,14,12,5,27,18,12,10,15,21,23,21,11,7,9,24,14,12,12,18,14,9,13,12,11,14,20,8,36,37,6,24,20,28,23,11,13,21,72,13,20,17,8,19,13,14,17,7,19,53,17,16,16,5,23,11,13,12,9,9,5,8,29,22,35,45,48,43,14,31,7,10,10,9,8,18,19,2,29,176,7,8,9,4,8,5,6,5,6,8,8,3,18,3,3,21,26,9,8,24,14,10,8,12,15,21,10,20,14,9,6],
+      "number": 19
+    },
+    "PRO": {
+    "book_name": {"english":"Proverbs","kannada":"ಜ್ಞಾನೋಕ್ತಿಗಳು","hindi":" नीतिवचन","tamil":"நீதிமொழிகள்","telugu":"సామెతలు","marathi":"नीतिसूत्रे","punjabi":"ਕਹਾਉਤਾਂ","assamese":"হিতোপদেশ","bengali":"হিতোপদেশ","urdu":"अम्साल","odiya":"ହିତୋପଦେଶ","gujarati":"નીતિવચનો","malayalam":"സദൃശവാക്യങ്ങൾ"},
+      "section": "OT",
+      "total_chapters":[33,22,35,27,23,35,27,36,18,32,31,28,25,35,33,33,28,24,29,30,31,29,35,34,28,28,27,28,27,33,31],
+      "number": 20
+    },
+    "ECC": {
+    "book_name": {"english":"Ecclesiastes","kannada":"ಪ್ರಸಂಗಿ","hindi":"सभोपदेशक","tamil":"பிரசங்கி","telugu":"ప్రసంగి","marathi":"उपदेशक","punjabi":"ਉਪਦੇਸ਼ਕ","assamese":"উপদেশক","bengali":"উপদেশক","urdu":"वाइज़","odiya":"ଉପଦେଶକ","gujarati":"સભાશિક્ષક","malayalam":"സഭാപ്രസംഗി"},
+      "section": "OT",
+      "total_chapters":[18,26,22,17,19,12,29,17,18,20,10,14],
+      "number": 21
+    },
+    "SNG": {
+    "book_name": {"english":"Song of Songs","kannada":"ಪರಮಗೀತೆ","hindi":"श्रेष्ठगीत","tamil":"உன்னதப்பாட்டு","telugu":"పరమ గీతము","marathi":"गीतरत्न","punjabi":"ਸੁਲੇਮਾਨ ਦਾ ਗੀਤ","assamese":"চলোমনৰ পৰমগীত","bengali":"শলোমনের পরমগীত","urdu":"गज़लुल गज़लियात","odiya":"ପରମ ଗୀତ","gujarati":"ગીતોનું ગીત","malayalam":"ഉത്തമഗീതം"},
+      "section": "OT",
+      "total_chapters":[17,17,11,16,16,12,14,14],
+      "number": 22
+    },
+    "ISA": {
+    "book_name": {"english":"Isaiah","kannada":"ಯೆಶಾಯನು","hindi":" यशायाह","tamil":"  ஏசாயா","telugu":"యెషయా","marathi":"यशया","punjabi":" ਯਸਾਯਾਹ","assamese":"যিচয়া ভাববাদীৰ পুস্তক","bengali":"যিশাইয় ভাববাদীর বই","urdu":"यसायाह","odiya":"ଯିଶାଇୟ","gujarati":"યશાયા","malayalam":"യെശയ്യാപ്രവാചകന്റെ പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[31,22,26,6,30,13,25,23,20,34,16,6,22,32,9,14,14,7,25,6,17,25,18,23,12,21,13,29,24,33,9,20,24,17,10,22,38,22,8,31,29,25,28,28,25,13,15,22,26,11,23,15,12,17,13,12,21,14,21,22,11,12,19,11,25,24],
+      "number": 23
+    },
+    "JER": {
+    "book_name": {"english":"Jeremiah","kannada":"ಯೆರೆಮೀಯನು","hindi":" यिर्मयाह","tamil":" எரேமியா","telugu":" యిర్మీయా","marathi":"यिर्मया","punjabi":"ਯਿਰਮਿਯਾਹ","assamese":"যিৰিমিয়া ভাববাদীৰ পুস্তক","bengali":" যিরমিয়ের বই","urdu":"यर्मयाह","odiya":"ଯିରିମୀୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"યર્મિયા","malayalam":"യിരെമ്യാപ്രവാചകന്റെ പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[19,37,25,31,31,30,34,23,25,25,23,17,27,22,21,21,27,23,15,18,14,30,40,10,38,24,22,17,32,24,40,44,26,22,19,32,21,28,18,16,18,22,13,30,5,28,7,47,39,46,64,34],
+      "number": 24
+    },
+    "LAM": {
+    "book_name": {"english":"Lamentations","kannada":"ಪ್ರಲಾಪಗಳು","hindi":" विलापगीत","tamil":"புலம்பல்கள்","telugu":"విలాప వాక్యములు","marathi":"विलापगीत","punjabi":" ਯਿਰਮਿਯਾਹ ਦਾ ਵਿਰਲਾਪ","assamese":"যিৰিমিয়াৰ বিলাপ","bengali":"যিরমিয়ের বিলাপ","urdu":"नोहा","odiya":"ଯିରିମୀୟଙ୍କ ବିଳାପ","gujarati":"યર્મિયાનો વિલાપ","malayalam":"വിലാപങ്ങൾ"},
+      "section": "OT",
+      "total_chapters":[22,22,66,22,22],
+      "number": 25
+    },
+    "EZK": {
+    "book_name": {"english":"Ezekiel","kannada":"ಯೆಹೆಜ್ಕೇಲನು","hindi":"यहेजकेल","tamil":"எசேக்கியேல்","telugu":"యెహెజ్కేలు","marathi":"यहेज्केल","punjabi":"ਹਿਜ਼ਕੀਏਲ","assamese":"যিহিষ্কেল ভাববাদীৰ পুস্তক","bengali":"যিহিস্কেল ভাববাদীর বই","urdu":"हिज़िक़िएल","odiya":"ଯିହିଜିକଲ","gujarati":" હઝકિયેલ","malayalam":"  യെഹെസ്കേൽ"},
+      "section": "OT",
+      "total_chapters":[28,10,27,17,17,14,27,18,11,22,25,28,23,23,8,63,24,32,14,44,37,31,49,27,17,21,36,26,21,26,18,32,33,31,15,38,28,23,29,49,26,20,27,31,25,24,23,35],
+      "number": 26
+    },
+    "DAN": {
+    "book_name": {"english":"Daniel","kannada":"ದಾನಿಯೇಲನು","hindi":"दानिय्येल","tamil":"தானியேல்","telugu":"దానియేలు","marathi":"दानिएल","punjabi":"ਦਾਨੀਏਲ","assamese":"দানিয়েলৰ পুস্তক","bengali":"দানিয়েল","urdu":" दानिएल","odiya":"ଦାନିୟେଲଙ୍କ ପୁସ୍ତକ","gujarati":" દાનિયેલ","malayalam":" ദാനീയേലിന്റെ പുസ്തകം"},
+      "section": "OT",
+      "total_chapters":[21,49,100,34,30,29,28,27,27,21,45,13,64,42],
+      "number": 27
+    },
+    "HOS": {
+    "book_name": {"english":"Hosea","kannada":"ಹೋಶೇಯನು","hindi":"होशे","tamil":"ஓசியா","telugu":" హోషేయ","marathi":"होशेय","punjabi":"ਹੋਸ਼ੇਆ","assamese":"হোচেয়াৰ পুস্তক","bengali":"হোশেয় ভাববাদীর বই","urdu":" होसीअ","odiya":"ହୋଶେୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"હોશિયા","malayalam":" ഹോശേയ"},
+      "section": "OT",
+      "total_chapters":[9,25,5,19,15,11,16,14,17,15,11,15,15,10],
+      "number": 28
+    },
+    "JOL": {
+    "book_name": {"english":"Joel","kannada":" ಯೋವೇಲನು","hindi":"योएल","tamil":" யோவேல்","telugu":"యోవేలు","marathi":"योएल","punjabi":"  ਯੋਏਲ","assamese":"যোৱেল ভাৱবাদীৰ পুস্তক","bengali":"যোয়েল ভাববাদীর বই","urdu":"यूएल","odiya":"ଯୋୟେଲ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"યોએલ","malayalam":"  യോവേൽ"},
+      "section": "OT",
+      "total_chapters":[20,27,5,21],
+      "number": 29
+    },
+    "AMO": {
+    "book_name": {"english":"Amos","kannada":"ಆಮೋಸನು","hindi":"आमोस","tamil":" ஆமோஸ்","telugu":"ఆమోసు","marathi":"आमोस","punjabi":"ਆਮੋਸ","assamese":"আমোচ","bengali":"আমোষ ভাববাদীর বই","urdu":"आमूस","odiya":"ଆମୋଷ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"આમોસ","malayalam":"ആമോസ്"},
+      "section": "OT",
+      "total_chapters":[15,16,15,13,27,14,17,14,15],
+      "number": 30
+    },
+    "OBA": {
+    "book_name": {"english":"Obadiah","kannada":" ಓಬದ್ಯನು","hindi":"ओबद्याह","tamil":"ஒபதியா","telugu":"ఓబద్యా","marathi":"ओबद्या","punjabi":"  ਓਬਦਯਾਹ","assamese":"ওবদিয়া ভাববাদীৰ পুস্তক","bengali":"ওবদিয় ভাববাদীর বই","urdu":"अब्दयाह","odiya":" ଓବଦୀୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"ઓબાદ્યા","malayalam":"ഓബദ്യാവു"},
+      "section": "OT",
+      "total_chapters":[21],
+      "number": 31
+    },
+    "JON": {
+    "book_name": {"english":"Jonah","kannada":"ಯೋನನು","hindi":"योना","tamil":"யோனா","telugu":"యోనా","marathi":"योना","punjabi":" ਯੂਨਾਹ","assamese":"যোনা ভাববাদীৰ পুস্তক","bengali":"যোনা ভাববাদীর বই","urdu":"यूनाह","odiya":"ଯୂନସ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ","gujarati":"યૂના","malayalam":"യോനാ"},
+      "section": "OT",
+      "total_chapters":[16,11,10,11],
+      "number": 32
+    },
+    "MIC": {
+    "book_name": {"english":"Micah","kannada":"ಮೀಕನು","hindi":"मीका","tamil":"மீகா","telugu":"మీకా","marathi":"मीखा","punjabi":"ਮੀਕਾਹ","assamese":"ভাববাদী মীখাৰ পুস্তক","bengali":"মীখা ভাববাদীর পুস্তক","urdu":"मीकाह","odiya":"ମୀଖା ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ","gujarati":"મીખાહ","malayalam":"മീഖാ"},
+      "section": "OT",
+      "total_chapters":[16,13,12,14,14,16,20],
+      "number": 33
+    },
+    "NAM": {
+    "book_name": {"english":"Nahum ","kannada":"ನಹೂಮನು","hindi":" नहूम","tamil":" நாகூம்","telugu":"నహూము","marathi":"नहूम","punjabi":" ਨਹੂਮ","assamese":"নহূম ভাববাদীৰ পুস্তক","bengali":"নহূম ভাববাদীর বই","urdu":"नाहूम","odiya":"ନାହୂମ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ ପୁସ୍ତକ","gujarati":"નાહૂમ","malayalam":"നഹൂം"},
+      "section": "OT",
+      "total_chapters":[14,14,19],
+      "number": 34
+    },
+    "HAB": {
+    "book_name": {"english":"Habakkuk","kannada":" ಹಬಕ್ಕೂಕನು","hindi":" हबक्कूक","tamil":"ஆபகூக்","telugu":"హబక్కూకు","marathi":"हबक्कूक","punjabi":"ਹਬੱਕੂਕ","assamese":"হবক্কুক ভাববাদীৰ পুস্তক","bengali":"হবককূক ভাববাদীর বই","urdu":"हबक़्क़ूक़","odiya":"ହବକ୍‍କୂକ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"હબાક્કુક","malayalam":"ഹബക്കൂൿ"},
+      "section": "OT",
+      "total_chapters":[17,20,19],
+      "number": 35
+    },
+    "ZEP": {
+    "book_name": {"english":"Zephaniah","kannada":"ಚೆಫನ್ಯನು","hindi":"सपन्याह","tamil":"செப்பனியா","telugu":"జెఫన్యా","marathi":"  सफन्या","punjabi":"ਸਫ਼ਨਯਾਹ","assamese":"চফনিয়া","bengali":"সফনিয় ভাববাদীর বই","urdu":" सफ़नयाह","odiya":"ସିଫନୀୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"સફાન્યા","malayalam":"സെഫന്യാവു"},
+      "section": "OT",
+      "total_chapters":[18,15,20],
+      "number": 36
+    },
+    "HAG": {
+    "book_name": {"english":"Haggai","kannada":" ಹಗ್ಗಾಯನು","hindi":"  हाग्गै","tamil":"  ஆகாய்","telugu":"  హగ్గయి","marathi":"हाग्गय","punjabi":"ਹੱਜਈ","assamese":"হগ্গয় ভাববাদীৰ পুস্তক","bengali":"হগয় ভাববাদীর বই","urdu":"हज्जी","odiya":"ହାଗୟ ଭବିଷ୍ୟଦ୍‍ବକ୍ତାଙ୍କ","gujarati":"હાગ્ગાય","malayalam":"ഹഗ്ഗായി"},
+      "section": "OT",
+      "total_chapters":[15,23],
+      "number": 37
+    },
+    "ZEC": {
+    "book_name": {"english":"Zechariah","kannada":"ಜೆಕರ್ಯನು","hindi":"जकर्याह","tamil":"சகரியா","telugu":" జెకర్యా","marathi":" जखऱ्या","punjabi":"ਜ਼ਕਰਯਾਹ","assamese":"জখৰিয়া ভাববাদীৰ পুস্তক","bengali":"সখরিয় ভাববাদীর বই","urdu":"ज़करयाह","odiya":"ଯିଖରୀୟ ଭବିଷ୍ୟବକ୍ତାଙ୍କ ପୁସ୍ତକ","gujarati":"ઝખાર્યા","malayalam":" സെഖര്യാവ്"},
+      "section": "OT",
+      "total_chapters":[17,17,10,14,11,15,14,23,17,12,17,14,9,21],
+      "number": 38
+    },
+    "MAL": {
+    "book_name": {"english":"Malachi","kannada":"ಮಲಾಕಿಯನು","hindi":" मलाकी","tamil":"மல்கியா","telugu":"మలాకీ","marathi":"मलाखी","punjabi":"ਮਲਾਕੀ","assamese":"মলাখী ভাববাদীৰ পুস্তক","bengali":"মালাখি ভাববাদীর বই","urdu":"मलाकी","odiya":"ମଲାଖି ଭବିଷ୍ୟବକ୍ତାଙ୍କ ପୁସ୍ତକ","gujarati":"માલાખી","malayalam":"മലാഖി"},
+      "section": "OT",
+      "total_chapters":[14,17,24],
+      "number": 39
+    },
+    "MAT": {
+    "book_name": {"english":"Matthew","kannada":" ಮತ್ತಾಯನು","hindi":"मत्ती","tamil":"மத்","telugu":"మత్తయి సువార్త","marathi":" मत्तयकृत शुभवर्तमान","punjabi":"ਮੱਤੀ ਦੀ ਇੰਜੀਲ","assamese":"মথিয়ে লিখা শুভবাৰ্তা","bengali":" মথি","urdu":"मत्ती","odiya":"ମାଥିଉ ଲିଖିତ ସୁସମାଚାର","gujarati":"માથ્થીની લખેલી સુવાર્તા","malayalam":"മത്തായി എഴുതിയ സുവിശേഷം"},
+      "section": "NT",
+      "total_chapters":[25,23,17,25,48,34,29,34,38,42,30,50,58,36,39,28,27,35,30,34,46,46,39,51,46,75,66,20],
+      "number": 40
+    },
+    "MRK": {
+    "book_name": {"english":"Mark","kannada":"ಮಾರ್ಕನು","hindi":"मरकुस","tamil":"மாற்கு","telugu":"మార్కు సువార్త","marathi":" मार्ककृत शुभवर्तमान","punjabi":" ਮਰਕੁਸ ਦੀ ਇੰਜੀਲ","assamese":"মাৰ্কে লিখা শুভবাৰ্তা","bengali":" মার্ক","urdu":"मरकुस","odiya":"ମାର୍କ","gujarati":"માર્કની લખેલી સુવાર્તા","malayalam":"മർക്കൊസ് എഴുതിയ സുവിശേഷം"},
+      "section": "NT",
+      "total_chapters":[45,28,35,41,43,56,37,38,50,52,33,44,37,72,47,20],
+      "number": 41
+    },
+    "LUK": {
+    "book_name": {"english":"Luke","kannada":"ಲೂಕನು","hindi":"लूका","tamil":"லூக்கா","telugu":"లూకా సువార్త","marathi":"लूककृत शुभवर्तमान","punjabi":"ਲੂਕਾ ਦੀ ਇੰਜੀਲ","assamese":"লূকে লিখা শুভবার্তা","bengali":"লুক","urdu":"लूक़ा","odiya":"ଲୂକ","gujarati":"લૂકની લખેલી સુવાર્તા","malayalam":"ലൂക്കോസ് എഴുതിയ സുവിശേഷം"},
+      "section": "NT",
+      "total_chapters":[80,52,38,44,39,49,50,56,62,42,54,59,35,35,32,31,37,43,48,47,38,71,56,53],
+      "number": 42
+    },
+    "JHN": {
+    "book_name": {"english":"John","kannada":"ಯೋಹಾನನು","hindi":"यूहन्ना","tamil":"யோவான்","telugu":"యోహాను సువార్త","marathi":"योहानकृत शुभवर्तमान","punjabi":"ਯੂਹੰਨਾ ਦੀ ਇੰਜੀਲ","assamese":"যোহনে লিখা শুভবাৰ্তা","bengali":"যোহন","urdu":"यूहन्ना","odiya":"ଯୋହନ","gujarati":"યોહાનની લખેલી સુવાર્તા","malayalam":"യോഹന്നാൻ എഴുതിയ സുവിശേഷം"},
+      "section": "NT",
+      "total_chapters":[51,25,36,54,47,71,53,59,41,42,57,50,38,31,27,33,26,40,42,31,25],
+      "number": 43
+    },
+    "ACT": {
+    "book_name": {"english":"Acts","kannada":"ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳ","hindi":"प्रेरितों के काम","tamil":"நடபடிகள்","telugu":"అపొస్తలుల కార్యములు","marathi":"प्रेषितांची कृत्ये","punjabi":" ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ","assamese":"যোহনে লিখা শুভবাৰ্তা","bengali":"যোহন","urdu":"यूहन्ना","odiya":"ଯୋହନ","gujarati":"યોહાનની લખેલી સુવાર્તા","malayalam":"അപ്പൊ. പ്രവൃത്തികൾ"},
+      "section": "NT",
+      "total_chapters":[26,47,26,37,42,15,60,40,43,48,30,25,52,28,41,40,34,28,40,38,40,30,35,27,27,32,44,31],
+      "number": 44
+    },
+    "ROM": {
+    "book_name": {"english":"Romans","kannada":"ರೋಮಾಪುರದವರಿಗೆ","hindi":"रोमियों","tamil":"ரோமர்","telugu":"రోమా పత్రిక","marathi":"रोमकरांस पत्र","punjabi":"ਰੋਮੀਆਂ ਨੂੰ","assamese":"ৰোমীয়া সকলৰ প্ৰতি পত্ৰ","bengali":"  রোমীয়","urdu":"रोमियों","odiya":"ରୋମୀୟ","gujarati":"રોમનોને પાઉલ પ્રેરિતનો પત્ર","malayalam":"റോമർ"},
+      "section": "NT",
+      "total_chapters":[32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27],
+      "number": 45
+    },
+    "1CO": {
+    "book_name": {"english":"1 Corinthians","kannada":"ಕೊರಿಂಥದವರಿಗೆ ಬರೆದ ಮೊದಲನೆಯ","hindi":"1 कुरिन्थियों","tamil":"1 கொரிந்தியர்","telugu":"1కొరింథీ పత్రిక","marathi":"करिंथकरांस पहिले पत्र","punjabi":"ਕੁਰਿੰਥੀਆਂ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ","assamese":"কৰিন্থীয়া সকলৰ প্ৰতি প্ৰথম পত্ৰ","bengali":"1 করিন্থীয়","urdu":" 1 कुरिन्थियों","odiya":"୧ କରିନ୍ଥୀୟ","gujarati":"કરિંથીઓને પાઉલ પ્રેરિતનો","malayalam":"1 കൊരിന്ത്യർ"},
+      "section": "NT",
+      "total_chapters":[31,16,23,21,13,20,40,13,27,33,34,31,13,40,58,24],
+      "number": 46
+    },
+    "2CO": {
+    "book_name": {"english":"2 Corinthians","kannada":"ಕೊರಿಂಥದವರಿಗೆ ಬರೆದ ಎರಡನೆಯ","hindi":"2 कुरिन्थियों","tamil":"2 கொரிந்தியர்","telugu":"2కొరింథీ పత్రిక","marathi":"करिंथकरांस दुसरे पत्र","punjabi":" ਕੁਰਿੰਥੀਆਂ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ","assamese":"কৰিন্থীয়া সকলৰ প্ৰতি দ্বিতীয় পত্ৰ","bengali":"2 করিন্থীয়","urdu":" 2 कुरिन्थियों","odiya":"୨ କରିନ୍ଥୀୟ","gujarati":"કરિંથીઓને પાઉલ પ્રેરિતનો","malayalam":"2 കൊരിന്ത്യർ"},
+      "section": "NT",
+      "total_chapters":[24,17,18,18,21,18,16,24,15,18,33,21,13],
+      "number": 47
+    },
+    "GAL": {
+    "book_name": {"english":"Galatians","kannada":"ಗಲಾತ್ಯದವರಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"गलातियों","tamil":"கலாத்தியர்","telugu":"గలతీ పత్రిక","marathi":"गलतीकरांस पत्र","punjabi":"ਗਲਤੀਆਂ ਨੂੰ","assamese":"গালাতীয়া সকলৰ প্রতি পত্র","bengali":" গালাতীয়","urdu":"  ़लतियो","odiya":"ग़लतियो","gujarati":"ગલાતીઓને પાઉલ પ્રેરિતનો પત્ર","malayalam":"ഗലാത്യർ"},
+      "section": "NT",
+      "total_chapters":[24,21,29,31,26,18],
+      "number": 48
+    },
+    "EPH": {
+    "book_name": {"english":"Ephesians","kannada":"ಎಫೆಸದವರಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"इफिसियों","tamil":"எபேசியர்","telugu":"ఎఫెసీ పత్రిక","marathi":"इफिसकरांस पत्र","punjabi":"ਅਫ਼ਸੀਆਂ ਨੂੰ","assamese":"ইফিচীয়া সকলৰ প্ৰতি পত্ৰ","bengali":"ইফিষীয়","urdu":"इफ़िसियों","odiya":"ଏଫିସୀୟ","gujarati":"એફેસીઓને પાઉલ પ્રેરિતનો પત્ર","malayalam":"എഫെസ്യർ"},
+      "section": "NT",
+      "total_chapters":[23,22,21,32,33,24],
+      "number": 49
+    },
+    "PHP": {
+    "book_name": {"english":"Philippians","kannada":"ಫಿಲಿಪ್ಪಿಯವರಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"फिलिप्पियों","tamil":"பிலிப்பியர்","telugu":"ఫిలిప్పీ పత్రిక","marathi":"फिलिप्पैकरांस पत्र","punjabi":"ਫਿਲਿੱਪੀਆਂ ਨੂੰ","assamese":"ফিলিপীয়া সকলৰ প্ৰতি পত্ৰ","bengali":"ফিলিপীয়","urdu":"फ़िलिप्पियों","odiya":"ଫିଲିପ୍‌ପୀୟ","gujarati":"ફિલિપ્પીઓને પાઉલ પ્રેરિતનો","malayalam":"ഫിലിപ്യർ"},
+      "section": "NT",
+      "total_chapters":[30,30,21,23],
+      "number": 50
+    },
+    "COL": {
+    "book_name": {"english":"Colossians","kannada":"ಕೊಲೊಸ್ಸೆಯರಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"कुलुस्सियों","tamil":"கொலோசெயர்","telugu":"కొలస్సీ పత్రిక","marathi":"कलस्सैकरांस पत्र","punjabi":"  ਕੁਲੁੱਸੀਆਂ ਨੂੰ","assamese":"কলচীয়া সকলৰ প্ৰতি পত্ৰ","bengali":"কলসীয়","urdu":"कुलुस्सियों","odiya":"କଲସୀୟ","gujarati":"ક્લોસ્સીઓને પાઉલ પ્રેરિતનો","malayalam":"കൊലൊസ്സ്യർ"},
+      "section": "NT",
+      "total_chapters":[29,23,25,18],
+      "number": 51
+    },
+    "1TH": {
+    "book_name": {"english":"1 Thessalonians","kannada":"ಥೆಸಲೋನಿಕದವರಿಗೆ ಬರೆದ ಮೊದಲನೆಯ","hindi":"1 थिस्सलुनीकियों","tamil":"1 தெசலோனிக்கேயர்","telugu":"1థెస్సలోనిక పత్రిక","marathi":"थेस्सलनीकाकरांस पहिले पत्र","punjabi":" ਥੱਸਲੁਨੀਕੀਆ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ","assamese":"থিচলনীকীয়া সকলৰ প্ৰতি প্ৰথম পত্ৰ","bengali":" 1 থিষলনীকীয়","urdu":" 1 थिस्सलुनीकियों","odiya":"୧ ଥେସଲନୀକୀୟ","gujarati":"થેસ્સાલોનિકીઓને પાઉલ પ્રેરિતનો","malayalam":"1 തെസ്സലോനിക്യർ"},
+      "section": "NT",
+      "total_chapters":[10,20,13,18,28],
+      "number": 52
+    },
+    "2TH": {
+    "book_name": {"english":"2 Thessalonians","kannada":"ಥೆಸಲೋನಿಕದವರಿಗೆ ಬರೆದ ಎರಡನೆಯ","hindi":"2 थिस्सलुनीकियों","tamil":"2 தெசலோனிக்கேயர்","telugu":"2థెస్సలోనిక పత్రిక","marathi":"थेस्सलनीकाकरांस दुसरे पत्र","punjabi":"ਥੱਸਲੁਨੀਕੀਆ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ","assamese":"থিচলনীকীয়া সকলৰ প্রতি দ্বিতীয় পত্র","bengali":" 2 থিষলনীকীয়","urdu":"2 थिस्सलुनीकियों","odiya":"୨ ଥେସଲନୀକୀୟ","gujarati":"થેસ્સાલોનિકીઓને પાઉલ પ્રેરિતનો","malayalam":"2 തെസ്സലോനിക്യർ"},
+      "section": "NT",
+      "total_chapters":[12,17,18],
+      "number": 53
+    },
+    "1TI": {
+    "book_name": {"english":"1 Timothy","kannada":"ತಿಮೊಥೆಯನಿಗೆ ಬರೆದ ಮೊದಲನೆಯ","hindi":"1 तीमुथियुस","tamil":"1 தீமோத்தேயு","telugu":"1తిమోతి పత్రిక","marathi":"तीमथ्याला पहिले पत्र","punjabi":"ਤਿਮੋਥਿਉਸ ਨੂੰ ਪਹਿਲੀ ਪੱਤ੍ਰੀ","assamese":"তীমথিয়ৰ প্ৰতি প্ৰথম পত্ৰ","bengali":" 1 তীমথিয়","urdu":"  1 तीमुथियुस","odiya":"୧ ତୀମଥି","gujarati":" તિમોથીને પાઉલ પ્રેરિતનો પહેલો","malayalam":"1 തിമോഥെയൊസ്"},
+      "section": "NT",
+      "total_chapters":[20,15,16,16,25,21],
+      "number": 54
+    },
+    "2TI": {
+    "book_name": {"english":"2 Timothy","kannada":"ತಿಮೊಥೆಯನಿಗೆ ಬರೆದ ಎರಡನೆಯ ಪತ್ರಿಕೆ","hindi":"2 तीमुथियुस","tamil":"2 தீமோத்தேயு","telugu":"2తిమోతి పత్రిక","marathi":"तीमथ्याला दुसरे पत्र","punjabi":"ਤਿਮੋਥਿਉਸ ਨੂੰ ਦੂਜੀ ਪੱਤ੍ਰੀ","assamese":"তীমথিয়ৰ প্ৰতি দ্বিতীয় পত্ৰ","bengali":"2 তীমথিয়","urdu":" 2 तीमुथियुस","odiya":"୨ ତୀମଥି","gujarati":" તિમોથીને પહેલો પત્ર","malayalam":"2 തിമോഥെയൊസ്"},
+      "section": "NT",
+      "total_chapters":[18,26,17,22],
+      "number": 55
+    },
+    "TIT": {
+    "book_name": {"english":"Titus","kannada":"ತೀತನಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"तीतुस","tamil":"தீத்து","telugu":"తీతు పత్రిక","marathi":"तीताला पत्र","punjabi":"ਤੀਤੁਸ ਨੂੰ","assamese":"তীতৰ প্ৰতি পত্ৰ","bengali":"তীত","urdu":" तितुस","odiya":"ତୀତସ","gujarati":"તિતસને પાઉલ પ્રેરિતનો પત્ર","malayalam":"തീത്തോസ്‌"},
+      "section": "NT",
+      "total_chapters":[16,15,15],
+      "number": 56
+    },
+    "PHM": {
+    "book_name": {"english":"Philemon","kannada":"ಫಿಲೆಮೋನನಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"फिलेमोन","tamil":"பிலேமோன்","telugu":"ఫిలేమోను పత్రిక","marathi":"फिलेमानाला पत्र","punjabi":"ਫਿਲੇਮੋਨ ਨੂੰ","assamese":"ফিলীমনৰ প্ৰতি পত্ৰ","bengali":"ফিলীমন","urdu":"फिलेमोन","odiya":"ଫିଲୀମୋନ","gujarati":"ફિલેમોનને પાઉલ પ્રેરિતનો","malayalam":"ഫിലേമോൻ"},
+      "section": "NT",
+      "total_chapters":[25],
+      "number": 57
+    },
+    "HEB": {
+    "book_name": {"english":"Hebrews","kannada":"ಇಬ್ರಿಯರಿಗೆ ಬರೆದ ಪತ್ರಿಕೆ","hindi":"इब्रानियों","tamil":"எபிரெயர்","telugu":"హెబ్రీ పత్రిక","marathi":"इब्री लोकांस पत्र","punjabi":"ਇਬਰਾਨੀਆਂ ਨੂੰ","assamese":"ইব্ৰী সকলৰ প্ৰতি পত্ৰ","bengali":" ইব্রীয়","urdu":"इब्रानियों","odiya":"ଏବ୍ରୀ","gujarati":"હિબ્રૂઓને પત્ર","malayalam":"എബ്രായർ"},
+      "section": "NT",
+      "total_chapters":[14,18,19,16,14,20,28,13,28,39,40,29,25],
+      "number": 58
+    },
+    "JAS": {
+    "book_name": {"english":"James","kannada":"ಯಾಕೋಬನು ಬರೆದ ಪತ್ರಿಕೆ","hindi":"याकूब","tamil":"யாக்கோபு","telugu":"యాకోబు పత్రిక","marathi":"याकोबाचे पत्र","punjabi":"ਯਾਕੂਬ ਦੀ ਪੱਤ੍ਰੀ","assamese":"যাকোবৰ পত্ৰ","bengali":"যাকোব","urdu":" या'क़ूब","odiya":"ଯାକୁବ","gujarati":" યાકૂબનો પત્ર","malayalam":" യാക്കോബ്"},
+      "section": "NT",
+      "total_chapters":[27,26,18,17,20],
+      "number": 59
+    },
+    "1PE": {
+    "book_name": {"english":"1 Peter","kannada":"ಪೇತ್ರನು ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರಿಕೆ","hindi":"1 पतरस","tamil":"1 பேதுரு","telugu":"1పేతురు పత్రిక","marathi":" पेत्राचे पहिले पत्र","punjabi":"ਪਤਰਸ ਦੀ ਪਹਿਲੀ ਪੱਤ੍ਰੀ","assamese":"পিতৰৰ প্ৰথম পত্ৰ","bengali":"1 পিতর","urdu":"  1 पतरस","odiya":"୧ ପିତର","gujarati":" પિતરનો પહેલો પત્ર","malayalam":"1 പത്രൊസ്"},
+      "section": "NT",
+      "total_chapters":[25,25,22,19,14],
+      "number": 60
+    },
+    "2PE": {
+    "book_name": {"english":"2 Peter","kannada":"ಪೇತ್ರನು ಬರೆದ ಎರಡನೆಯ ಪತ್ರಿಕೆ","hindi":" 2 पतरस","tamil":" 2 பேதுரு","telugu":"2పేతురు పత్రిక","marathi":"पेत्राचे दुसरे पत्र","punjabi":"ਪਤਰਸ ਦੀ ਦੂਜੀ ਪੱਤ੍ਰੀ","assamese":"পিতৰৰ দ্বিতীয় পত্ৰ","bengali":"2 পিতর","urdu":" 2 पतरस","odiya":"୨ ପିତର","gujarati":"પિતરનો બીજો પત્ર","malayalam":"2 പത്രൊസ്"},
+      "section": "NT",
+      "total_chapters":[21,22,18],
+      "number": 61
+    },
+    "1JN": {
+    "book_name": {"english":"1 John","kannada":"ಯೋಹಾನನು ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರಿಕೆ","hindi":"1 यूहन्ना","tamil":"1 யோவான்","telugu":"1యోహాను పత్రిక","marathi":"योहानाचे पहिले पत्र","punjabi":"ਯੂਹੰਨਾ ਦੀ ਪਹਿਲੀ ਪੱਤ੍ਰੀ","assamese":"যোহনৰ প্ৰথম পত্ৰ","bengali":" 1 যোহন","urdu":" 1 यूहन्ना","odiya":"୧ ଯୋହନ","gujarati":" યોહાનનો પહેલો પત્ર","malayalam":"1 യോഹന്നാൻ"},
+      "section": "NT",
+      "total_chapters":[10,29,24,21,21],
+      "number": 62
+    },
+    "2JN": {
+    "book_name": {"english":"2 John","kannada":"ಯೋಹಾನನು ಬರೆದ ಎರಡನೆಯ ಪತ್ರಿಕೆ","hindi":"2 यूहन्ना","tamil":"2 யோவான்","telugu":"2యోహాను పత్రిక","marathi":"योहानाचे दुसरे पत्र","punjabi":"ਯੂਹੰਨਾ ਦੀ ਦੂਜੀ ਪੱਤ੍ਰੀ","assamese":"যোহনৰ দ্বিতীয় পত্ৰ","bengali":"2 যোহন","urdu":"2 यूहन्ना","odiya":"୨ ଯୋହନ","gujarati":"યોહાનનો બીજો પત્ર","malayalam":"2 യോഹന്നാൻ"},
+      "section": "NT",
+      "total_chapters":[13],
+      "number": 63
+    },
+    "3JN": {
+    "book_name": {"english":"3 John","kannada":"ಯೋಹಾನನು ಬರೆದ ಮೂರನೆಯ ಪತ್ರಿಕೆ","hindi":"3 यूहन्ना","tamil":"3 யோவான்","telugu":"3యోహాను పత్రిక","marathi":"योहानाचे तिसरे पत्र","punjabi":"ਯੂਹੰਨਾ ਦੀ ਤੀਸਰੀ ਪੱਤ੍ਰੀ","assamese":"যোহনৰ তৃতীয় পত্ৰ","bengali":" 3 যোহন","urdu":"3 यूहन्ना","odiya":"୩ ଯୋହନ","gujarati":" યોહાનનો ત્રીજો પત્ર","malayalam":"3 യോഹന്നാൻ"},
+      "section": "NT",
+      "total_chapters":[15],
+      "number": 64
+    },
+    "JUD": {
+    "book_name": {"english":"Jude","kannada":"ಯೂದನು ಬರೆದ ಪತ್ರಿಕೆ","hindi":" यहूदा","tamil":"யூதா","telugu":"యూదా పత్రిక","marathi":"यहूदाचे पत्र","punjabi":"ਯਹੂਦਾਹ ਦੀ ਪੱਤ੍ਰੀ","assamese":"যিহূদাৰ পত্ৰ","bengali":" যিহূদা","urdu":" यहूदाह","odiya":"ଯିହୂଦା","gujarati":"યહૂદાનો પત્ર","malayalam":"യൂദാ"},
+      "section": "NT",
+      "total_chapters":[25],
+      "number": 65
+    },
+    "REV": {
+    "book_name": {"english":"Revelation","kannada":" ಪ್ರಕಟಣೆ","hindi":"प्रकाशितवाक्य","tamil":"வெளிப்படுத்தின விசேஷம்","telugu":"ప్రకటన గ్రంథం","marathi":"प्रकटीकरण","punjabi":"ਯੂਹੰਨਾ ਦੇ ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ","assamese":"যোহনৰ প্ৰতি প্ৰকাশিত বাক্য","bengali":"প্রকাশিত বাক্য","urdu":"मुक़ाशिफ़ा","odiya":"ପ୍ରକାଶିତ","gujarati":"પ્રકટીકરણ","malayalam":"വെളിപ്പാട്"},
+      "section": "NT",
+      "total_chapters":[20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21],
+      "number": 66
+    }
+  }
+}

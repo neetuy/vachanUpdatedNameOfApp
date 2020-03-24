@@ -1,0 +1,188 @@
+{
+    "HIN":{
+        "books":{
+            "GEN": {
+                "section": "OT",
+                "number": 1,
+                "Overview":null,
+                "info":[
+                    {"chapter":"1-2","about":"Creation"},
+                    {"chapter":"6-9","about":"Noah's Ark"},
+                    {"chapter":"4-11","about":"Adam_Lineage"},
+                    {"chapter":"49","about":"Jacob_Sons"},
+                    {"chapter":"12-41","about":"Jacob_Sons"}
+                ]
+
+            },
+            "EXO": {
+                "section": "OT",
+                "number": 2,
+                "Overview":"",
+                "info":[
+                  {"chapter":"7-11","about":"Plagues"},
+                  {"chapter":"25","about":"Ark_of_Covenant"},
+                  {"chapter":"20","about":"Ten_Commandments"},
+                  {"chapter":"28","about":"High_Priest's Garment"}
+                ]
+            },
+            "1KI_&_2KI": {
+              "section": "OT",
+              "number": [11,12],
+              "info":[{"chapter":null,"about":"Judah_&_Israel"}]
+            },
+            "EZR_&_NEH": {
+              "section": "OT",
+              "number": [15,16],
+              "info":[{"chapter":null,"about":"Jerusalem_Rebuilt"}]
+
+            },
+            "ISA": {
+              "section": "OT",
+              "number": 23,
+              "Overview":"",
+              "info":[{"chapter":null,"about":"Timeline"}]
+            },
+            "DAN": {
+                "section": "OT",
+                "number": 27,
+                "Overview":""
+                },
+            "JON": {
+              "section": "OT",
+              "number": 32,
+              "Overview":"",
+              "info":[{"chapter":null,"about":"Map"}]
+            },
+            "MIC": {
+                "section": "OT",
+                "number": 33,
+                "Overview":""
+                },
+            "MRK": {
+              "section": "NT",
+              "number": 41,
+              "Overview":"",
+              "info":null
+            },
+            "LUK": {
+              "section": "NT",
+              "number": 42,
+              "chapter_number":"",
+              "Overview":"",
+              "info":null
+            },
+            "JHN": {
+              "section": "NT",
+              "number": 43,
+              "Overview":null,
+              "info":[{"chapter":null,"about":"John_I_AM_Sayings"}]
+            },
+            "ACT": {
+              "section": "NT",
+              "number": 44,
+              "Overview":null,
+              "info":[
+                  {"chapter":null,"about":"Gospel_Progress-1"},
+                  {"chapter":null,"about":"Gospel_Progress-2"},
+                  {"chapter":null,"about":"Gospel_Progress-3"},
+                  {"chapter":"2","about":"Nations at Pentecost_Map"}
+
+                ]
+            },
+            "ROM": {
+              "section": "NT",
+              "number": 45,
+              "chapter_number":"",
+              "Overview":"",
+              "info":[
+                  {"chapter":"3","about":"Justification"},
+                  {"chapter":"3","about":"Promise_Law_Jesus"},
+                  {"chapter":"7","about":"Marriage_&_Law"},
+                  {"chapter":"8","about":"Hope"},
+                  {"chapter":"5-8","about":"Old_&_New_Realms"}
+
+                ]
+            },
+            
+            "GAL": {
+              "section": "NT",
+              "number": 48,
+              "Overview":null,
+              "info":[
+                  {"chapter":"3","about":"Promise_Law_Jesus"},
+                  {"chapter":"4","about":"Law_&_Faith"}
+                ]
+            },
+         
+            "HEB": {
+              "section": "NT",
+              "number": 58,
+              "Overview":null,
+              "info":[
+                  {"chapter":"11-12","about":"Heroes_Faith-1"},
+                  {"chapter":"11-12","about":"Heroes_Faith-2"},
+                  {"chapter":"11-12","about":"Heroes_Faith-3"},
+                  {"chapter":"12","about":"Two_Mounts"},
+                  {"chapter":null,"about":"Old_&_New_Covenants-1"},
+                  {"chapter":null,"about":"Old_&_New_Covenants-2"}
+                ]
+            },
+            "JUD": {
+              "section": "NT",
+              "number": 65,
+              "Overview":"",
+              "info":null
+            },
+            "REV": {
+              "section": "NT",
+              "number": 66,
+              "Overview":"",
+              "info":[
+                  {"chapter":"1","about":"John's Vision_of_Jesus"},
+                  {"chapter":"2-3","about":"Seven_Churches_Map"},
+                  {"chapter":"4-5","about":"Vision"}
+                ]
+            }
+          
+    },
+    "others":{
+        "BIBLE":{
+            "info":[
+                {"about":"Timeline"},
+                {"about":"Overview 1"},
+                {"about":"Overview 2"}
+              ]
+
+        },
+        "CHURCH":{
+            "info":[
+                {"about":"Early_Church_History-1"},
+                {"about":"Early_Church_History-2"}
+              ]
+        },
+        "12_Tribes":{
+            "info":[
+                {"about":"Map"}
+              ]
+        },
+        "Israel_in Gospels":{
+            "info":[
+                {"about":"Map"}
+              ]
+        },
+        "Paul_Life_&_Mission":{
+            "info":[
+                {"about":"Timeline"}
+              ]
+        },
+        "Judges":{
+            "info":[
+                {"about":"Rejection_&_Rescue_Cycle"}
+              ]
+            
+        }
+    }
+    }
+
+    
+}
